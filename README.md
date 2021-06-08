@@ -11,6 +11,12 @@ pip install tk
 ```
 pip install pytube3
 ```
+> install validators
+
+'''
+pip install validators
+'''
+
 
 For youtube link :
 > Go to share link under the video and copy the link address
